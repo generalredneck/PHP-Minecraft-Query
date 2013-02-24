@@ -1,0 +1,3 @@
+This library was not created by Allan Chappell (generalredneck) but is being mirrored from https://github.com/xPaw/PHP-Minecraft-Query for the purpose of providing the Drupal Community with a versioned copy of this library.
+
+Taking no credit.
